@@ -16,12 +16,12 @@ body {
 .wrapper {
   margin: 0 auto;
   width: 60%;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
 
 #content {
-  padding: 20px;
-  background: rgba(255,255,255,.85);
+  padding: 10px;
+  background: rgba(193, 216, 235, 0.9);
 }
 
 h1, h2 {
